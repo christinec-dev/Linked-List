@@ -1,0 +1,24 @@
+{
+  "name": "list",
+  "version": "1.0.0",
+  "description": "A Basic C++ Linked-List Terminal Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christinec-dev/Linked-List.git"
+  },
+  "keywords": [
+    "List",
+    "CPP",
+    "C++"
+  ],
+  "author": "Christine Coomans",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christinec-dev/Linked-List/issues"
+  },
+  "homepage": "https://github.com/christinec-dev/Linked-List#readme"
+}
